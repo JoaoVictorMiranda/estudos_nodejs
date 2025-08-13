@@ -1,0 +1,27 @@
+{
+  "name": "estudos_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaoVictorMiranda/estudos_nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/JoaoVictorMiranda/estudos_nodejs/issues"
+  },
+  "homepage": "https://github.com/JoaoVictorMiranda/estudos_nodejs#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mysql2": "^3.14.3",
+    "nodemon": "^3.1.10"
+  }
+}
